@@ -1,18 +1,39 @@
 - 👋 Hi, I’m Leonardo
 
 ```Javascript 
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+import SoftwareDeveloper from 'Leonardo Mendoza';
+
+class Bio extends SoftwareDeveloper {
+    name     = 'Leonardo Mendoza';
+    stack    = 'Frontend Developer';
+    location = 'Argentina';
+}
+
+class Skills extends SoftwareDeveloper {
+    languages = ['HTML', 'CSS', 'JavaScript'];
+
+    preprocessos = {
+        
+        CSS: {
+            Sass/SCSS': true,
+         },
+        javascript: {
+            babel: true,
+        }
+    };
+
+    othersTecnologies = {
+        versionControl: 'Git',
+        softwareHosting: 'GitHub',          
+        },     
+    };
+
+ 
+    frameworks = {
+            React: true,
+        }
+        
 }
 ```
+
+
