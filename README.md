@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Leonardo
 
+```Javascript 
 const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
@@ -14,3 +15,4 @@ const ashraf = {
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
+```
