@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Leonardo
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/leo7mdz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomendoza7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leo7mendoza7@gmail.com)
+
 ```Javascript 
 import SoftwareDeveloper from 'Leonardo Mendoza';
 
@@ -36,6 +40,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=leo7mdz&show_icons=true&hide_border=true" />
+
 
 
